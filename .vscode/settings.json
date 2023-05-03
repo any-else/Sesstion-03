@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.background": "#010e19",
+    "editor.backgroundOpacity": 0.9,
+    "workbench.colorBackground": "#000000cc",
+    "workbench.colorForeground": "#cccccc",
+    "workbench.colorHighContrast": "#ffffff",
+    "activityBar.background": "#083512",
+    "titleBar.activeBackground": "#0C4B19",
+    "titleBar.activeForeground": "#F0FDF3"
+  },
+  "livePreview.defaultPreviewPath": "/bai-tap/bai02.html"
+}
